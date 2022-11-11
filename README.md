@@ -8,5 +8,5 @@
 <a href="https://notetakerochoa.herokuapp.com/notes"> https://notetakerochoa.herokuapp.com/notes </a>
 
 ### Application Screenshot:
-<img src="./assets/images/sample1.png" alt="homescreen">
-<img src="./assets/images/sample2.png" alt="finalscreen">
+<img src="/assets/images/sample1.png" alt="homescreen">
+<img src="/assets/images/sample2.png" alt="finalscreen">
